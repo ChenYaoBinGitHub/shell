@@ -1,0 +1,13 @@
+for.sh
+if.sh
+mycase.sh
+variable.sh
+for.sh
+if.sh
+mycase.sh
+test1
+variable.sh
+./for.sh
+./if.sh
+./mycase.sh
+./variable.sh
